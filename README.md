@@ -28,6 +28,3 @@ score, providing real-time feedback and fostering an immersive gaming experience
 - Download and install any required libraries and dependencies through the Unity Package Manager.
 - Build the project to your target platform (Android or iOS).
 - Deploy the application to your mobile device and start playing the game. 
-
-This project demonstrates our ability to collaborate effectively and utilize Unity's tools to integrate
-custom 3D models with augmented reality technology. The final product is a functional and engaging
