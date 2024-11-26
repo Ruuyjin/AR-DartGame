@@ -1,8 +1,10 @@
 # AR Dart Game Development
+
   This project involved the creation of an augmented reality (AR) dart game utilizing Unity and AR
 Foundation, featuring two 3D models: a dartboard and a dart. The game offers an interactive experience
 where players can throw virtual darts at a dartboard. Successful hits dynamically increase the player's
 score, providing real-time feedback and fostering an immersive gaming experience.
+
   The game utilizes both plane detection and image target technology, providing flexibility and compatibility across various augmented reality environments. Plane detection allows the dartboard to be positioned on real-world surfaces like tables or floors, while image target enables the dartboard to appear when a specific image is scanned. This dual approach ensures that the game can be played in a variety of settings, offering users an adaptable and engaging AR experience.
 
 ## Features
