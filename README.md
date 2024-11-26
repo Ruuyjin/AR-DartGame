@@ -30,4 +30,4 @@ score, providing real-time feedback and fostering an immersive gaming experience
 - Deploy the application to your mobile device and start playing the game. 
 
 ## Video Demonstration
-https://www.youtube.com/shorts/esa0YSy-xG8
+• https://www.youtube.com/shorts/esa0YSy-xG8
